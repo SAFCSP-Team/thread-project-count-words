@@ -8,7 +8,7 @@ Create a program that utilizes a separate thread to handle user input. The threa
 
 ## Implementation
 
-- Create a function `void *count_words_thread(void *arg)` that will be responsible for reading input lines and counting how many words are in the input, until an empty line is submitted (Enter key is clicked). 
+- Create a function `void *count_words_thread(void *arg)` that will be responsible for reading input lines and counting how many words are in the input, until the **Enter** key is clicked. 
 
 
 In the Main method 
